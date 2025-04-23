@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hollowha/hollowha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dual major student in **Computer Science** and **Information Management** at **NCU**, passionate about building **AI-powered tools** that blend technology with creativity and security.
 
-Here are some ideas to get you started:
+Currently working on:
+- 🎨 Generative Chinese Fonts using Diffusion Models  
+- 🧠 Fine-tuning LLMs for personalized UX  
+- 🔐 Designing Web Security Labs with Docker & PHP  
+- 🧪 Research Internship @ Academia Sinica (AI + XR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Coding Stats
+
+| Most Used Languages         | GitHub Stats                    |
+|----------------------------|----------------------------------|
+| Python, HTML/CSS, JavaScript | 🔁 Total Commits: `2025`<br>⭐ Total Stars: `9`<br>🔧 Total PRs: `29`<br>🧩 Issues: `8` |
+
+---
+
+## 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![Pytorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+
+---
+
+## 🤝 Connect with Me
+
+- 📬 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio Website (if any)](https://your-site.com)
+
+---
+
+## 🔖 Motto  
+**Create with purpose. Build with precision. Share with impact.**
