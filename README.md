@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a dual major student in **Computer Science** and **Information Management** at **NCU**, passionate about building **AI-powered tools** that blend technology with creativity and security.
+I'm a dual major student in  **Information Management** and dual major in **Computer Science**  at **NCU**, passionate about building **AI-powered tools** that blend technology with creativity and security.
 
 Currently working on:
 - 🎨 Generative Chinese Fonts using Diffusion Models  
@@ -14,7 +14,7 @@ Currently working on:
 
 | Most Used Languages         | GitHub Stats                    |
 |----------------------------|----------------------------------|
-| Python, HTML/CSS, JavaScript | 🔁 Total Commits: `2025`<br>⭐ Total Stars: `9`<br>🔧 Total PRs: `29`<br>🧩 Issues: `8` |
+| Python, HTML/CSS, JavaScript | 🔁 Total Commits: `105`<br>⭐ Total Stars: `9`<br>🔧 Total PRs: `29`<br>🧩 Issues: `8` |
 
 ---
 
@@ -35,8 +35,8 @@ Currently working on:
 
 ## 🤝 Connect with Me
 
-- 📬 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website (if any)](https://your-site.com)
+- 📬 [LinkedIn](linkedin.com/in/欣鴻-余-6a05732a7)
+- 🌐 [Gmail](catfish1105@gmail.com)
 
 ---
 
